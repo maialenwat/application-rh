@@ -13,3 +13,6 @@ Notre groupe est chargé du suivi des employés.
 - Chaque développeurs doit développer sur toute les couches (frontend et backend).  
 
 - La base de données sera réalisée en travail commun par groupe.
+
+### Notre produit :
+Notre produit est à destination des RH. Il sert au suivi des employés.
